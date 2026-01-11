@@ -1,0 +1,106 @@
+AYUSHI SAXENA
+SOFTWARE DEVELOPER
+
+Email: ayushi.saxena112016@gmail.com
+Github: https://github.com/w1ndwatcher/Ayushi-s-Portfolio
+LinkedIn: https://www.linkedin.com/in/ayushi-saxena-416bb9168/
+Medium: https://medium.com/@windwatcher17
+
+Software Engineer with 3+ years of experience in full-stack web application development and Generative AI
+based systems. Passionate about applied GenAI, data-driven systems, and building intelligent developer
+facing tools. 
+
+Core Skills:-
+Programming & Frameworks: Python, Flask, Django, REST APIs, React, JavaScript, HTML, CSS, Bootstrap
+Databases: PostgreSQL, MySQL, SQLite, Redis, Vector Databases, SQLAlchemy
+Generative AI & ML: LLMs, Retrieval-Augmented Generation (RAG), LangChain, Prompt Engineering,
+Hugging Face, FAISS, Vector Search, Embeddings, Semantic Search 
+Data & ML Tools: pandas, numPy, scikit-learn, pytorch, MLflow, DVC, Vertex AI, Model Garden
+DevOps & Cloud: Github Actions, Docker, AWS, GCP, CI/CD basics
+Collaboration and Communication: Clickup, Slack, Agile methodologies
+
+PROJECTS:-
+
+GENERATIVE AI & RAG PROJECTS:-
+LTalk Chatbot (https://github.com/w1ndwatcher/LTalk) - Generative AI Assistant (2025), Setukrite Technologies Pvt. Ltd.
+Tech Stack: Flask, LangChain, FAISS, Hugging Face, Sentence Transformers (all-mpnet-base-v2), LLaMA
+Built an intelligent FAQ chatbot to answer user queries related to courses, career counseling, and
+platform features.        
+Implemented a RAG pipeline using FAISS vector store for semantic search, embeddings using
+Sentence Transformers and integrated open-source LLMs for response generation.
+Designed efficient retrieval and prompt templates for accurate, context-aware answers.
+
+LabMate – Internal Technical Assistant (2025), Setukrite Technologies Pvt. Ltd.
+Tech Stack: Flask, LangChain, FAISS, Hugging Face, LLaMA
+Developed an internal GenAI assistant to help developers query technical documentation and system
+architecture, supporting debugging, onboarding, and knowledge transfer for development teams.
+Enabled context-aware QA over internal documents using RAG-based retrieval pipelines.
+Tuned prompts and retrieval strategies to improve response relevance and accuracy.
+
+FULL STACK DEVELOPMENT PROJECTS:-
+Ashoka Datalake (https://cdsa.ashoka.edu.in/hello/datalake/) (2025), Center for Data Science and Analytics, Ashoka University
+Tech Stack: Django, React, PostgreSQL, Docker, AWS, Solr
+Built a research-focused data platform enabling dataset upload, transformation, and visualization.
+Migrating legacy Django-only frontend to React-based dashboards for better UX and scalability.
+Implemented visualization workflows and dashboard creation features.
+Enhanced Solr-based search with text and filter-based querying.
+      
+HealTrail (https://addon.healtrailconnect.in/) – Lab & Clinic Management System (2023–2024), Setukrite Technologies Pvt. Ltd.
+Tech Stack: Python, Flask, MySQL, Bootstrap, JavaScript, Chart.js, FullCalendar
+Developed a full-stack system to manage diagnostic centers and clinics.
+Implemented appointment booking, report generation, prescriptions, queue management, inventory,
+and expenses.
+Implemented role-based access control, session management, and third-party API integrations
+
+Library Management System (https://github.com/w1ndwatcher/Library-Management-System) (2023), IIT Madras
+Tech Stack: Flask, Vue.js, SQLite, SQLAlchemy, Celery, Redis, Chart.js, Bootstrap
+Built a web application for managing books, users, issues/returns, and analytics dashboards.
+Implemented authentication, RBAC, background task scheduling, and PDF report generation.
+Added notification workflows using GChat webhook integration.
+
+DEEP LEARNING PROJECTS (ACADEMIC):-
+IndicTTS Deepfake Detection Challenge (2025) IIT Madras
+Tech Stack: pandas, numpy, pytorch, datasets, transformers, evaluate
+Developed a speech classification model to detect AI generated synthetic audio across 16 Indian
+languages.
+Leveraged transfer learning by using pretrained transformer models (DistillHuBERT, Wav2Vec2) to
+output the probability of an audio sample being synthetic.
+Focused on optimizing ROC-AUC scores using Hugging Face’s training pipeline and evaluated on a
+private leaderboard.
+
+Multilingual Sentiment Analysis (2025), IIT Madras
+Tech Stack: pandas, numpy, pytorch, datasets, transformers, bitsandbytes, unsloth
+Fine tuned the LLaMA 3.1-8B-Instruct model using LoRA for binary sentiment classification
+(positive/negative) across 13 Indian languages.
+Leveraged instruction style supervised prompts, 4-bit quantized inference and parameter efficient
+fine tuning, acheiving competetive results on low resource multilingual text data.
+
+
+PROFESSIONAL EXPERIENCE:-
+Software Developer, Center for Data Science and Analytics Ashoka University (Aug 2025 - Present)
+Developing a centralized data lake and visualization platform for researchers to upload, manage,
+transform, and analyze datasets.
+Designed and implemented scalable backend service using Django to support dataset ingestion, solr
+based indexing and search, filtering, and analytics workflows.
+Built React dashboards with Plotly, enabling combined analytical and geospatial insights.
+Participated in exhibitions explaining about the platform.
+Collaborating closely with data scientists and researchers to deliver scalable, user-friendly analytical
+tools. 
+
+Senior Software Engineer, Setukrite Technologies Pvt. Ltd. (Nov 2022 - Aug 2025)
+Led backend and API development, database schema design, and UI integration for multiple production
+systems.
+Conducted system and database design, researched technical improvements, and optimized existing
+workflows.
+Mentored interns and junior developers; Conducted bootcamp training sessions on AI, LLMs, and RAG.
+Provided client-facing technical support and participated in requirement analysis and solution design.
+
+
+EDUCATION:-
+University of Delhi | 2022 | M.Sc. Chemistry | CGPA 7.64 | 
+IIT Madras | 2026 | BS. Data Science and Programming | CGPA 7.3
+
+ 
+AWARDS / CERTIFICATIONS:-
+Qualified GATE in Data Science and Artificial Intelligence, 2024
+Service Excellence Award, Setukrite Technologies Pvt. Ltd., 2023 
